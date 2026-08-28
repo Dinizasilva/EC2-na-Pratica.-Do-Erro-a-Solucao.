@@ -52,7 +52,7 @@ Iniciar a instância novamente — esperei o status mudar para Running.
 Validar no Skill Builder — na etapa DIY (Do It Yourself), inseri o ID da instância para confirmar que tudo estava correto.
 
 <p align="center">
-  <img src="aws-simulearn-completed.png" width="600" alt="AWS SimuLearn Completed - You Did It">
+  <img src="aws-simulearn-completed.png (2).jpg" width="600" alt="AWS SimuLearn Completed">
 </p>
 
 
