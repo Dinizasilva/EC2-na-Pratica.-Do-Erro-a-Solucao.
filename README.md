@@ -1,4 +1,4 @@
-# EC2-na-Pratica.Do-Erro-a-Solucao.
+# EC2 na Pratica. Do erro a Solucao.
 Laboratório da trilha Fundamentos da Computação em Nuvem — AWS Skill Builder
 
 
@@ -50,6 +50,11 @@ Parar a instância — com o disableApiStop desativado.
 Alterar o tipo da instância — troquei de t3.micro para m4.large, que tem mais capacidade de processamento.
 Iniciar a instância novamente — esperei o status mudar para Running.
 Validar no Skill Builder — na etapa DIY (Do It Yourself), inseri o ID da instância para confirmar que tudo estava correto.
+
+<p align="center">
+  <img src="aws-simulearn-completed.png" width="600" alt="AWS SimuLearn Completed - You Did It">
+</p>
+
 
 ## 4️⃣ A solução final
 
