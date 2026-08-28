@@ -70,7 +70,8 @@ Esse laboratório me ensinou que na nuvem não é só sobre clicar nos botões c
 
 
 Sobre Eliana Diniz
+* **LinkedIn:** www.linkedin.com/in/eliana-diniz
+* **Email:** eliana.dinizsilva@gmail.com
 
-Linkedin: www.linkedin.com/in/eliana-diniz
-email: eliana.dinizsilva@gmail.com
+* Cada erro investigado e resolvido no console é um degrau a mais construído na nossa base em nuvem.
 
